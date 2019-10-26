@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/hoaphan/Documents/Company Source/BanVien/3km.mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f253a6790e3cfb206fabaddb047bfa1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/hoaphan/Documents/Company Source/BanVien/3km.mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f253a6790e3cfb206fabaddb047bfa1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/hoaphan/Documents/Company Source/BanVien/3km.mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f253a6790e3cfb206fabaddb047bfa1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/hoaphan/Documents/Company Source/BanVien/3km.mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f253a6790e3cfb206fabaddb047bfa1/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

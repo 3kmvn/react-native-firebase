@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/hoaphan/Documents/Company Source/BanVien/3km.mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4f602640ec1c035116d54a955db09805/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/hoaphan/Documents/Company Source/BanVien/3km.mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4f602640ec1c035116d54a955db09805/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/hoaphan/Documents/Company Source/BanVien/3km.mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4f602640ec1c035116d54a955db09805/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/hoaphan/Documents/Company Source/BanVien/3km.mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4f602640ec1c035116d54a955db09805/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/hoaphan/Documents/Company Source/BanVien/3km.mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4f602640ec1c035116d54a955db09805/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/hoaphan/Documents/Company Source/BanVien/3km.mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f253a6790e3cfb206fabaddb047bfa1/res/drawable-v21/notification_action_background.xml"
+    }
+]
